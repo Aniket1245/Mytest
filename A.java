@@ -7,3 +7,10 @@ System.out.pritln("GOOD");
 }
 }
 sysout();
+sysoutfgdfg
+dfgdgd
+gdg
+df
+gd
+gd
+g
